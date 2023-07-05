@@ -1,7 +1,7 @@
 ### Hey, I'm Guilherme 🇧🇷 <a href="https://github.com/codeisGui"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a> !
 
-## - 🔭 Web development student.
-## - 🌱 My goal is to be a front-end developer.
+ - 🔭 Web development student.
+ - 🌱 My goal is to be a front-end developer.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeisGui&theme=yeblu&show_icons=true) 
 
